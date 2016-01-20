@@ -1,0 +1,16 @@
+{
+	"name": "ractive-decorators-datetimepicker",
+	"repo": "git://github.com/boberro/ractive-decorators-datetimepicker.git",
+	"description": "ractive-decorators-datetimepicker",
+	"version": "0.1.0",
+	"keywords": [],
+	"dependencies": {
+		"ractivejs/ractive": "^0.5.4"
+	},
+	"development": {},
+	"license": "MIT",
+	"main": "ractive-decorators-datetimepicker.js",
+	"scripts": [
+		"ractive-decorators-datetimepicker.js"
+	]
+}
