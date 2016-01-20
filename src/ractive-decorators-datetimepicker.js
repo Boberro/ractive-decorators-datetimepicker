@@ -64,7 +64,7 @@
             options = dateTimePickerDecorator.options;
         }
 
-        $(node).datetimepicker();
+        $(node).datetimepicker(options);
 
         return {
             teardown: function () {
